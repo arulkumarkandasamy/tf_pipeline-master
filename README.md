@@ -5,7 +5,7 @@ manage and run [Terraform](http://terraform.io/) with remote state locking, pull
 request integration and chat notifications.
 
 
-## Example
+## Example test
 
 A brief demo of `terraform plan` triggering automatically when a pull request is
 opened, then writing the plan output to a comment.
